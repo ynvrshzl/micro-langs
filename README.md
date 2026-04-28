@@ -1,11 +1,14 @@
 # Aa
-"Micro-langs"
+"micro-languages"
 
-Hypothetical research on domain-specific micro programming languages. 
+This repository contains research on domain-specific micro programming languages. 
 
+## Core research
+- [Domains in Programming](docs/domains.md)
+
+## Inspirations
 Much in the same spirit as the original CSS decoupling from HTML.
 
-- [Domains in Programming](docs/domains.md)
 
 ## Abstract 
 This branch of metalang is focused on researching and exploring micro-languages to separate the various domains in programming, into smaller, subsets of language and syntax, designed to specific parts of code.
